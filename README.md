@@ -1,5 +1,7 @@
-Meu primeiro sistema no git.
+Meu alterado sistema no git. (alterado após criação de repositório online)
 
 Alteração no README
 
-Alteração feita no master
+
+Alguma nova linha - master diferença
+Adicionando uma linha - diff
